@@ -1,7 +1,7 @@
 {
 	"manifest_version": 3,
 	"name": "Snipe-IT Chrome Device Sync",
-	"update_url": "https://cygantech.github.io/d12-snipesync/popup.html",
+	"update_url": "https://cygantech.github.io/d12-snipesync/update_manifest.xml",
 	"version": "1.0",
 	"description": "A Chrome extension to sync device information with Snipe-IT",
 	"permissions": [

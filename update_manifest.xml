@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
 	<app appid='bkhlbabonmnofblaigepdeelijpplalf'>
-		<updatecheck codebase='https://cygantech.github.io/d12-snipesync/popup.html' version='1.0' />
+		<updatecheck codebase='https://cygantech.github.io/d12-snipesync/' version='1.0' />
 	</app>
 </gupdate>
