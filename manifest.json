@@ -2,6 +2,7 @@
 	"manifest_version": 3,
 	"name": "Snipe-IT Chrome Device Sync",
 	"update_url": "https://cygantech.github.io/d12-snipesync/update_manifest.xml",
+    "key": "LS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS0KTUlJQklqQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUF1cVV2SVJKWlZYUTdPSE1oQVA3egptb2VnYTk4c3RLd2N6M3JuWjluTFhxek9ibEVDYlk4RHRlT3BVSGs2MkFoMVFteEF2L3hSMTQzSVVKVnpkakxKCjJ2T2dFZGtSTjRZWWhVUHFvb0FTS3U0dHord3JFaVBhVkdCdGpTYyt1cjMyVlVteUw5blRyeHkvcmxMdTlXRFYKRnRPWGhvKzU5MmtybG1MNkVBd2d0S3FMdmIwbk9Nd1dXNUhlbEY3OVd5WVlrd014UU43b1BMSkxaY3pvMit1ZgpOMzZ6RStrNEZ1YUYxcFN6dlVvaFlZWXNuWStPRXVpVkpFQS9yQXJTcSsvSVVmc3dXMDk0RjJKaTBpTDhERVZvCjFlOVZCY0xXRC90NEozYXZWSTBORUtXMk9RRDlCNjVsMVV0Q09SOGtvSXlxQmVMT0c2cHdqWVRNZU53KzVBNWgKUlFJREFRQUIKLS0tLS1FTkQgUFVCTElDIEtFWS0tLS0tCg==",
 	"version": "1.0",
 	"description": "A Chrome extension to sync device information with Snipe-IT",
 	"permissions": [
