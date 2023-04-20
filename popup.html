@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            width: 300px;
+        }
+
+        button {
+            background-color: #4CAF50;
+            border: none;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 5px;
+            cursor: pointer;
+        }
+    </style>
+    <script src="background.js"></script>
+    <script src="popup.js"></script>
+</head>
+<body>
+    <h1>Snipe-IT Chrome Device Sync</h1>
+    <p>
+        <strong>Serial Number:</strong> <span id="serialNumber">N/A</span><br />
+        <strong>MAC Address:</strong> <span id="macAddress">N/A</span><br />
+        <strong>Device Model:</strong> <span id="deviceModel">N/A</span><br />
+        <strong>Last Logged-in User:</strong> <span id="lastLoggedInUser">N/A</span>
+    </p>
+    <button id="syncButton">Sync with Snipe-IT</button>
+</body>
+</html>

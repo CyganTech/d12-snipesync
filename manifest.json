@@ -1,0 +1,19 @@
+{
+	"manifest_version": 3,
+	"name": "Snipe-IT Chrome Device Sync",
+	"version": "1.0",
+	"description": "A Chrome extension to sync device information with Snipe-IT",
+	"permissions": [
+		"identity",
+		"enterprise.deviceAttributes"
+	],
+	"action": {
+		"default_popup": "popup.html",
+		"default_icon": {
+			"48": "icon48.png"
+		}
+	},
+	"background": {
+		"service_worker": "background.js"
+	}
+}
